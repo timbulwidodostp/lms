@@ -1,0 +1,4 @@
+D 'lms': Perform least median squares regression fit (LMS) Use lms With STATA 19
+D
+F lms.ado
+F lms.hlp
